@@ -91,6 +91,7 @@ Questions can be asked by raising an `Issue`.
 - Wait for your changes to be merged
 
 - Hurray! You successfully made a contribution
+- Finally !! 
 
 ## Hacktoberfest community
 
